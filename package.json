@@ -2,7 +2,7 @@
   "name": "account-book",
   "productName": "account-book",
   "version": "1.0.0",
-  "description": "My Electron application description",
+  "description": "记账本",
   "main": ".vite/build/main.js",
   "scripts": {
     "start": "electron-forge start",
@@ -13,8 +13,8 @@
   },
   "keywords": [],
   "author": {
-    "name": "SX0027040",
-    "email": "xiaoqiang.wu@faujor.com"
+    "name": "rxiao",
+    "email": "wojiaoex@163.com"
   },
   "license": "MIT",
   "devDependencies": {
@@ -34,6 +34,7 @@
   "dependencies": {
     "@vitejs/plugin-vue": "^5.2.1",
     "ant-design-vue": "^4.2.6",
+    "better-sqlite3": "^11.8.1",
     "electron-squirrel-startup": "^1.0.1",
     "vue-router": "^4.5.0"
   }
