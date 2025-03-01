@@ -56,4 +56,6 @@
 
      > npm start
 
+   * 启动时如果遇到`better-sqlite3`相关的错误, 需要手动执行`npx electron-rebuild -f -w better-sqlite3`命令后执行`npm run rebuild命令`再启动项目
+
 ## 设想
